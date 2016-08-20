@@ -1,0 +1,3 @@
+[submodule "IBAnimatable"]
+	path = IBAnimatable
+	url = https://github.com/IBAnimatable/IBAnimatable.git
